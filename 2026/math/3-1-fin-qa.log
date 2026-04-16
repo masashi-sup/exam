@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.9.29)  17 APR 2026 02:51
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.9.29)  17 APR 2026 03:44
  restricted system commands enabled.
 **3-1-fin-qa.tex
 (./3-1-fin-qa.tex
@@ -2508,15 +2508,15 @@ Package rerunfilecheck Info: File `3-1-fin-qa.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29675 strings out of 476291
- 244644,1144653 words of node,token memory allocated
+ 29688 strings out of 476291
+ 244640,1144653 words of node,token memory allocated
  1195 words of node memory still in use:
    11 hlist, 2 vlist, 6 rule, 2 glue, 4 kern, 2 glyph, 249 attribute, 56 glue_sp
 ec, 35 attribute_list, 2 write, 14 user_defined nodes
-   avail lists: 1:17,2:56884,3:3097,4:1822,5:922,6:226,7:6201,8:25,9:3446,10:13
- 50971 multiletter control sequences out of 65536+600000
+   avail lists: 1:35,2:56884,3:3097,4:1930,5:922,6:226,7:6363,8:25,9:3554,10:13
+ 50984 multiletter control sequences out of 65536+600000
  118 fonts using 75061767 bytes
- 119i,15n,112p,1786b,1272s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 119i,15n,112p,1786b,1270s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf>{c:/texl
 ive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<c:/texlive/2025/texmf-dist
 /fonts/opentype/public/lm/lmroman9-regular.otf>{c:/texlive/2025/texmf-dist/fonts
@@ -2531,7 +2531,7 @@ ype1/public/lm/lmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi
 25/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2025/texmf-dist/fonts/t
 ype1/public/lm/lmr9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10
 .pfb>
-Output written on 3-1-fin-qa.pdf (3 pages, 737461 bytes).
+Output written on 3-1-fin-qa.pdf (3 pages, 737827 bytes).
 
 PDF statistics: 155 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
