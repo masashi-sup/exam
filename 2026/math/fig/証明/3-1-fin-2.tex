@@ -1,0 +1,38 @@
+\documentclass[article,paper=b6]{jlreq}
+\setlength{\columnseprule}{0.5pt}
+\setlength{\columnsep}{5\zw}
+\usepackage[left=20mm,right=20mm]{geometry}
+\usepackage{amssymb,mathtools,mathcomp}
+\usepackage{enumitem,tasks}
+\usepackage{physics,physics2}
+\settasks{label-width=2\zw}
+\usephysicsmodule{ab,ab.braket}
+\usepackage{bm}
+\usepackage{graphicx,tabularx,here}
+\usepackage{tikz,tikz-3dplot}
+\usetikzlibrary{math,angles,quotes,calc,intersections}
+\usepackage{kyotsutest}
+\usepackage{answerbox}
+\usepackage[pdftitle={証明},pdfauthor={まさし},hidelinks]{hyperref}
+\pagestyle{empty}
+
+\begin{document}
+\noindent\textbf{［証明］}
+
+連続する3つの整数は，中央の数を$n$とおくと，
+$n − 1$，$n$，$n + 1$ と表せる。
+
+最小の数の平方と最大の数の平方の和から$2$を引いた数は，
+\begin{align*}
+&\ab(n - 1)^{2} + \ab(n + 1)^{2} - 2\\
+{}={} &\ab({n}^{2} - 2n + 1) + \ab({n}^{2} + 2n + 1) - 2\\
+{}={} &{n}^{2} - 2n + 1 + {n}^{2} + 2n + 1 - 2\\
+{}={} &2{n}^{2}
+\end{align*}
+である。これは中央の数の平方の$2$倍に等しい。
+
+したがって，3つの連続する整数のうち，
+最小の数の平方と最大の数の平方の和から$2$を引いた数は，
+中央の数の平方の$2$倍に等しい。
+
+\end{document}

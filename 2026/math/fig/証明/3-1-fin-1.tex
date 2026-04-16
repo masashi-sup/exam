@@ -1,0 +1,41 @@
+\documentclass[article,paper=b6]{jlreq}
+\setlength{\columnseprule}{0.5pt}
+\setlength{\columnsep}{5\zw}
+\usepackage[left=20mm,right=20mm]{geometry}
+\usepackage{amssymb,mathtools,mathcomp}
+\usepackage{enumitem,tasks}
+\usepackage{physics,physics2}
+\settasks{label-width=2\zw}
+\usephysicsmodule{ab,ab.braket}
+\usepackage{bm}
+\usepackage{graphicx,tabularx,here}
+\usepackage{tikz,tikz-3dplot}
+\usetikzlibrary{math,angles,quotes,calc,intersections}
+\usepackage{kyotsutest}
+\usepackage{answerbox}
+\usepackage[pdftitle={証明},pdfauthor={まさし},hidelinks]{hyperref}
+\pagestyle{empty}
+
+\begin{document}
+\noindent\textbf{［証明］}
+
+道の面積は，道の外側の円の面積から道の内側の円の面積を引いたものであるから，
+\begin{align*}
+S &{}={} {\pi}\ab(r + a)^{2} - {\pi}{r}^{2}\\
+&{}={} {\pi}\ab\{\ab({r}^{2}  + 2ar + {a}^{2}) - {r}^{2}\}\\
+&{}={} {\pi}\ab(2ar + {a}^{2})\\
+&{}={} {\pi}a\ab(2r + a)
+\end{align*}
+である。
+
+また，道の真ん中を通る円の半径は $\ab(r + \dfrac{a}{2}){\,}\textrm{m}$ であるから，
+\begin{align*}
+\ell &{}={} 2{\pi}\ab(r + \dfrac{a}{2})\\
+&{}={} {\pi}\ab(2r + a)
+\end{align*}
+であり，
+$$a\ell = {\pi}a\ab(2r + a)$$
+となる。これは道の面積$S$に等しい。
+
+したがって，$S = a\ell$ である。
+\end{document}
