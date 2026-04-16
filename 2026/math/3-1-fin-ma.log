@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.9.29)  16 APR 2026 05:24
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.9.29)  17 APR 2026 02:48
  restricted system commands enabled.
 **3-1-fin-ma.tex
 (./3-1-fin-ma.tex
@@ -1801,22 +1801,22 @@ File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 121.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 121.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 121.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 121.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 
 Overfull \vbox (2.32pt too high) has occurred while \output is active []
 
@@ -2435,22 +2435,22 @@ File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 147.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 147.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 147.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 File: ../../common/icon-masashi.png Graphic file (type png)
 <use ../../common/icon-masashi.png>
 Package luatex.def Info: ../../common/icon-masashi.png  used on input line 147.
 
-(luatex.def)             Requested size: 35.0pt x 34.99852pt.
+(luatex.def)             Requested size: 28.0pt x 27.99606pt.
 
 Overfull \vbox (2.32pt too high) has occurred while \output is active []
 
@@ -2484,7 +2484,7 @@ lar.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMin
 cho-Regular.otf><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:
 /texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-
 dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 3-1-fin-ma.pdf (2 pages, 799425 bytes).
+Output written on 3-1-fin-ma.pdf (2 pages, 799422 bytes).
 
 PDF statistics: 183 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
